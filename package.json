@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "*"
+  },
+  "dependencies": {
+    "@react-buddy/ide-toolbox": "^2.3.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27"
+  }
+}
